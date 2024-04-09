@@ -1,0 +1,7 @@
+﻿  CPPFPS.cpp
+D:\Program Files\Engine\CPPFPS\CPPFPS\CPPFPS.cpp(34,26): warning C4838: Konvertierung von "int" zu "SHORT" erfordert eine einschränkende Konvertierung
+D:\Program Files\Engine\CPPFPS\CPPFPS\CPPFPS.cpp(34,40): warning C4838: Konvertierung von "int" zu "SHORT" erfordert eine einschränkende Konvertierung
+D:\Program Files\Engine\CPPFPS\CPPFPS\CPPFPS.cpp(42,50): warning C4838: Konvertierung von "int" zu "SHORT" erfordert eine einschränkende Konvertierung
+D:\Program Files\Engine\CPPFPS\CPPFPS\CPPFPS.cpp(42,69): warning C4838: Konvertierung von "int" zu "SHORT" erfordert eine einschränkende Konvertierung
+D:\Program Files\Engine\CPPFPS\CPPFPS\CPPFPS.cpp(127,26): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+  CPPFPS.vcxproj -> D:\Program Files\Engine\CPPFPS\x64\Debug\CPPFPS.exe
